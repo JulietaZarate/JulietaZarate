@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on technological process audit
+- 🌱 I’m currently studying Systems Engineering in UTN
+- 📫 How to reach me: https://www.linkedin.com/in/julieta-zarate-/
